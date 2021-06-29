@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\npositive\n",
+    "T_STAT": "\nIt is 1.82. It is computed as the coef estimate divided by the standard dev\n",
+    "P_VALUE": "\nThe median age is not statistically significant at the 95% level (as the p-value is not smaller than 5%) and not statistically significant at the 90% level (as the p-value is not smaller than 10%)\n",
+    "INCREASE": "\nHolding all other regressors constant, when the share of families with a married couple increases by 1 percentage point in the district, the total number of incidents is estimated to decrease by 2115\n",
+    "LIMITATIONS": "\nSome explanatory variables are not independent. For ex. the share of people with less than a high school diploma is not independent from the share of people with a college degree\n"
+}
